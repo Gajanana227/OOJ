@@ -1,0 +1,66 @@
+1.Demonstrate various string constructor with proper java programs.
+
+2.Demostrate string length, string literal, string concat
+
+3.Demostrate tostring()
+
+4. Using getchars() , extract Bmsce from “ Welcome to Bmsce college”
+
+5.Demostrate getbytes(),tocharArray() with proper java programs
+
+6.Check the following output and write the java programs using string function
+Bmsce equals Bmsce -&gt; true
+Bmsce equals College -&gt; false
+Bmsce equals BMSCE -&gt; false
+Bmsce equalsIgnoreCase BMSCE -&gt; true
+
+7. Using regionmatches() find the substring “Bmsce college “ from the string “Welcome to
+Bmsce College of Engineering” , if matches display substring is matched otherwise display not
+matched
+
+8. Demonstrate startwith() to give output true and false.
+
+9. Demonstrate endswith() to give output true and false.
+
+10. Demostrate a java program to show the output for equals() versus ==
+
+11. Write a java program to perform sorting for alphabets using compareto()
+“van”, “watch”,”ball”, “cat”,”xmas”,”yatch”,” zee”,”
+apple”,”ice”,”jug”,”kite”,”lift”,”man”,”net”,”orange”,”dog”,”ent”,”free”,”gun”,”hen”,”parrot”,”q
+ueen”,”ring”,”star”,”tree”,”umbrella”
+
+12. Write a Java program to perform sorting of numbers from 10 to 1 using compareto()
+
+13. Write a Java program using substring() , indexof(), + , for replacing “was” to “is”
+“Thwas was a test. Thwas was, too.”
+
+14. Write a java program to demonstrate concat() for s1=”hello” and s2=”world”
+
+15. Write a java program to demonstrate replace(). Replace “College” with “Commege”
+
+16. Write a java program to demonstrate trim() for “ Hello Friends “
+
+17. Design a class which represents a student. Every student record is made up of thefollowing
+fields. i) Registration number (int) ii) Full Name (String) iii) Semester (short) iv) CGPA (float)
+Write member functions to do the following.
+a) Provide default and parameterized constructors to this class
+b) Write display method which displays the record. Test the class by writing suitable main
+method.
+c) Create an array of student record to store minimum of 5 records in it.
+Input the records and display them.
+d. Perform the following operations by adding member functions to the program implemented in
+the above question i) Sort the student records with respect to CGPA. ii) Sort the student record
+with respect to name.
+
+18. Demonstrate string buffer functions like Setlength(), Charat(), setcharat() , getchars()
+,append() ,Insert(), reverse(),delete(),deletecharat(), Replace(),substring() with simple java
+programs.
+
+19.
+Write a Java program to create an abstract class Bird with abstract methods fly() and
+makeSound(). Create subclasses Eagle and Hawk that extend the Bird class and implement the
+respective methods to describe how each bird flies and makes a sound.
+
+20. Write a Java program to create an abstract class Shape with abstract methods calculateArea()
+and calculatePerimeter(). Create subclasses Circle and Triangle that extend the Shape class and
+implement the respective methods to calculate the area and perimeter of each shape
